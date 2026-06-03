@@ -8,6 +8,27 @@
   <em>Scan to open OopsBin</em>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/English-0d1a1f?style=flat&logoColor=7fd1c6&labelColor=0a1014" alt="English">
+  ·
+  <a href="README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-0d1a1f?style=flat&logoColor=7fd1c6&labelColor=0a1014" alt="Español"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-0a1014?logo=python&logoColor=7fd1c6&labelColor=0d1a1f" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow-2.x-0a1014?logo=tensorflow&logoColor=7fd1c6&labelColor=0d1a1f" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-3.x-0a1014?logo=keras&logoColor=7fd1c6&labelColor=0d1a1f" alt="Keras">
+  <img src="https://img.shields.io/badge/Flask-3.x-0a1014?logo=flask&logoColor=7fd1c6&labelColor=0d1a1f" alt="Flask">
+  <img src="https://img.shields.io/badge/NumPy-2.x-0a1014?logo=numpy&logoColor=7fd1c6&labelColor=0d1a1f" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-3.x-0a1014?logo=pandas&logoColor=7fd1c6&labelColor=0d1a1f" alt="Pandas">
+  <img src="https://img.shields.io/badge/Pillow-imaging-0a1014?logoColor=7fd1c6&labelColor=0d1a1f" alt="Pillow">
+  <img src="https://img.shields.io/badge/Supabase-PostgreSQL-0a1014?logo=supabase&logoColor=7fd1c6&labelColor=0d1a1f" alt="Supabase">
+  <img src="https://img.shields.io/badge/Jupyter-notebooks-0a1014?logo=jupyter&logoColor=7fd1c6&labelColor=0d1a1f" alt="Jupyter">
+  <img src="https://img.shields.io/badge/uv-package%20mgr-0a1014?logoColor=7fd1c6&labelColor=0d1a1f" alt="uv">
+  <img src="https://img.shields.io/badge/Docker-compose-0a1014?logo=docker&logoColor=7fd1c6&labelColor=0d1a1f" alt="Docker">
+  <img src="https://img.shields.io/badge/Git%20LFS-models-0a1014?logo=git&logoColor=7fd1c6&labelColor=0d1a1f" alt="Git LFS">
+</p>
+
 # OopsBin
 
 Multiclass waste classification system powered by deep learning. Upload an image or use your camera and OopsBin tells you which bin it belongs in.
@@ -187,9 +208,11 @@ project4_Team_5/
 |-------|-----------|
 | Backend | Flask, Python |
 | ML | TensorFlow / Keras (ResNet50, EfficientNetB0, MobileNetV2) |
+| Data | NumPy, Pandas, Pillow, Matplotlib |
 | Frontend | HTML, CSS, JavaScript |
 | Database | Supabase (PostgreSQL) |
-| Container | Docker |
+| Tooling | uv, Make, Jupyter, Git LFS |
+| Container | Docker, Docker Compose |
 | Training | Google Colab / Kaggle (GPU T4) |
 
 ---
